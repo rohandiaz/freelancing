@@ -1,0 +1,25 @@
+.dashboard-container {
+    padding: 20px;
+  }
+  
+  input[type="file"] {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .job-list {
+    margin-top: 20px;
+  }
+  
+  .job-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .job-list li {
+    background-color: #f0f0f0;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  

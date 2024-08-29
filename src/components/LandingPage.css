@@ -1,0 +1,36 @@
+.landing-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  p {
+    margin-bottom: 20px;
+    color: #555;
+  }
+  
+  .role-selection {
+    display: flex;
+  }
+  
+  .role-box {
+    background-color: #007bff;
+    color: white;
+    padding: 20px 40px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .role-box:hover {
+    transform: scale(1.1);
+  }
+  
