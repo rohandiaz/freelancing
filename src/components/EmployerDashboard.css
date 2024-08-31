@@ -1,0 +1,20 @@
+.dashboard-container {
+    padding: 20px;
+  }
+  
+  .candidate-list {
+    margin-top: 20px;
+  }
+  
+  .candidate-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .candidate-list li {
+    background-color: #f0f0f0;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
